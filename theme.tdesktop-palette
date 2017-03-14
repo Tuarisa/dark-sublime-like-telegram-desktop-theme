@@ -33,7 +33,7 @@
 //
 
 windowBg: #5e5c5e;
-windowFg: #fffb19;
+windowFg: #efe8e8;
 windowBgOver: #ce8080;
 windowBgRipple: #58c49a;
 windowFgOver: windowFg;
